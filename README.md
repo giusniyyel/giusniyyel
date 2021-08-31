@@ -6,7 +6,7 @@
 <!-- Typing svg by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFB86C&lines=App+Developer;Web+Development+%26+Linux+Enthusiast;Always+Learning+New+Things;2+years+of+coding+experience">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFB86C&lines=App+Developer;Web+Development;Linux+Enthusiast">
   </a>
 </p>
 
@@ -72,7 +72,6 @@ I'm a curious learner who's always working with new technologies 💡. I love to
 - 👷 Working on **CornerStore** a *Point of Sale System*.
 - 🧐 Into **App Development** and working on my *Architecture Patterns* & *Data Structures*.
 - 🚧 Setting up my **portfolio website**. 
-
 
 ## 🛠️ My favorite tools
 
@@ -148,7 +147,6 @@ I'm a curious learner who's always working with new technologies 💡. I love to
     <li><b>Browser: </b> Chrome Web Browser</li>
     <li><b>Terminal: </b> Fish: Oh My Fish (Starship)</li>
     <li><b>Code Editor:</b> VSCode & Neovim.</li>
-    <br/>
   </ul>
 </details>
 
