@@ -162,5 +162,5 @@ Passionate about building robust applications! ✨ I'm a passionate engineer who
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=giusniyyel&theme=monokai&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giusniyyel&theme=monokai&hide_border=true" alt="GitHub Streak" />
 </details>
