@@ -63,14 +63,13 @@
 </p>
 
 ## 🤵 About Me
-I'm a computer systems engineering student at Juarez Autonomous University of Tabasco 🏛️. <br/> 
-I'm a curious learner who's always working with new technologies 💡. I love to guide and mentor others 📚.
+Building impactful Java applications at Globant! 🛠️.<br/>
+Passionate about building robust applications! ✨ I'm a passionate engineer who thrives on tackling new challenges, sharing my knowledge and empowering others. Currently obsessed with cloud architectures ☁️. Let's chat coding & grab coffee - hit me up!
 
 ### 🔥 I'm Currently:
-- 🛠️  Working with Kotlin, Flutter, Dart, Java, Python, Php, Laravel, Nodejs, Electron, Javascript, Haskell, etc.
-- 💥 Leading a **Google Developer Student Club** at my University.
-- 👷 Working on **CornerStore** a *Point of Sale System*.
-- 🧐 Into **App Development** and working on my *Architecture Patterns* & *Data Structures*.
+- 🛠️  Working with Java, Python, Kotlin, Nodejs, NextJs, Typescript, AWS, Kafka, Spring, Docker, etc.
+- 👷 Working on [**my links website**](https://links.giusniyyel.dev/)
+- 🧐 Into **App Development** and working on my *UI/UX Desings* & *Architectures*.
 - 🚧 Setting up my **portfolio website**. 
 
 ## 🛠️ My favorite tools
@@ -142,19 +141,19 @@ I'm a curious learner who's always working with new technologies 💡. I love to
 <details>
   <summary><b>⚙️ Things I use</b></summary>
   <ul>
-    <li><b>OS:</b> Archlinux 5.13.12</li>
+    <li><b>OS:</b> MacOs Sonoma 14.2</li>
     <li><b>Laptop: </b> HP Envy x360 Convertible</li>
     <li><b>Browser: </b> Chrome Web Browser</li>
-    <li><b>Terminal: </b> Fish: Oh My Fish (Starship)</li>
-    <li><b>Code Editor:</b> VSCode & Neovim.</li>
+    <li><b>Terminal: </b> Zsh: Oh My Zsh (PowerLevel10k)</li>
+    <li><b>Code Editor:</b> VSCode, Neovim. & Intellij Idea</li>
   </ul>
 </details>
 
 <details>
   <summary><b>🌟 Github Profile Stats</b></summary>
   <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giusniyyel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giusniyyel&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giusniyyel&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=monokai"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giusniyyel&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=monokai"/>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </details>
@@ -163,5 +162,5 @@ I'm a curious learner who's always working with new technologies 💡. I love to
   <summary><b>☄️ Github Streaks</b></summary>
 
   <br/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=giusniyyel&hide_border=true&theme=dracula" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=giusniyyel&theme=monokai&hide_border=true" />
 </details>
