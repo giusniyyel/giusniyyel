@@ -19,31 +19,37 @@
 - ⚡️ Fun fact Kanye's next album "Dunder Mifflin Dropout" includes a diss track aimed at Microsoft Windows, praising Arch's "Scranton hustle." Pam ghostwrites it.
 
 <!-- Social icons section -->
-<p align="center" style="margin-block: 2rem; display: flex;gap: 1rem;flex-flow: wrap; align-items:center; justify-content: center;">
+<p align="center">
+  <br/>
+  <br/>
   <!-- Twitter -->
-  <a href="https://twitter.com/GiusNiyyel" style="padding: 0.75rem;display: flex;justify-content: center;align-items: center;background: rgba(255, 255, 255, 0.19);border-radius: 15px;box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);backdrop-filter: blur(5.9px);-webkit-backdrop-filter: blur(5.9px);">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/WeztoeC.png" style="filter: brightness(0) invert(1);opacity: 80%;">
+  <a href="https://twitter.com/GiusNiyyel">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/a4mj2Yd.png">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Instagram -->
-  <a href="https://www.instagram.com/giusniyyel" width="32px" style="padding: 0.75rem;display: flex;justify-content: center;align-items: center;background: rgba(255, 255, 255, 0.19);border-radius: 15px;box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);backdrop-filter: blur(5.9px);-webkit-backdrop-filter: blur(5.9px);">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://links.giusniyyel.dev/assets/svg/insta.svg" style="filter: brightness(0) invert(1);opacity: 80%;">
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- Linkedin -->
-  <a href="https://linkedin.com/in/giusniyyel/" style="padding: 0.75rem;display: flex;justify-content: center;align-items: center;background: rgba(255, 255, 255, 0.19);border-radius: 15px;box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);backdrop-filter: blur(5.9px);-webkit-backdrop-filter: blur(5.9px);">
-    <img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/aqr4GXw.png" style="filter: brightness(0) invert(1);opacity: 80%;">
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <!-- Youtube -->
-  <a href="https://www.youtube.com/channel/UCGhTPTIINw8yfz7k-x5nYjg" style="padding: 0.75rem;display: flex;justify-content: center;align-items: center;background: rgba(255, 255, 255, 0.19);border-radius: 15px;box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);backdrop-filter: blur(5.9px);-webkit-backdrop-filter: blur(5.9px);">
-    <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/lrSeFx0.png" style="filter: brightness(0) invert(1);opacity: 80%;">
+  <a href="https://www.instagram.com/giusniyyel" width="32px">
+    <img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/KFZnJE4.png">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Medium -->
-  <a href="https://medium.com/@giusniyyel" style="padding: 0.75rem;display: flex;justify-content: center;align-items: center;background: rgba(255, 255, 255, 0.19);border-radius: 15px;box-shadow: 0 4px 30px rgba(0, 0, 0, 0.1);backdrop-filter: blur(5.9px);-webkit-backdrop-filter: blur(5.9px);">
-    <img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/5sLMO78.png" style="filter: brightness(0) invert(1);opacity: 80%;">
+  <a href="https://medium.com/@giusniyyel">
+    <img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/vC4Jiv9.png">
   </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Youtube -->
+  <a href="https://www.youtube.com/channel/UCGhTPTIINw8yfz7k-x5nYjg">
+    <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/pXqueD3.png">
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Linkedin -->
+  <a href="https://linkedin.com/in/giusniyyel/">
+    <img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/Lk2Afx8.png">
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
+  <br/>
+  <br/>
 </p>
 
 ## 🤵 About Me
