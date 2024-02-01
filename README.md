@@ -1,15 +1,12 @@
 <!-- Presentation -->
-<!-- Typing svg by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <a href="https://github.com/giusniyyel"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=32&duration=3000&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Daniel+Campos" alt="Typing Daniel Campos SVG" /></a>
-</p>
+<h1 align="center">
+  <a href="https://github.com/giusniyyel"><img src="https://readme-typing-svg.herokuapp.com?font=Ubuntu&weight=700&size=32&duration=4000&pause=1000&color=EF4444FF&center=true&vCenter=true&random=false&width=435&lines=Hi+There!+%F0%9F%91%8B;I'm+Daniel+Campos;" alt="Typing Daniel Campos SVG" /></a>
+</h1>
 
----
-
-<p align="center" >
-  <br/>
-  <b>Software Developer from Mexico</b>
-</p>
+<h3 align="center" >
+  <b>Software Developer from Mexico 🇲🇽</b>
+</h3>
+<br/>
 
 ### 🔥 I'm Currently:
 
@@ -22,32 +19,31 @@
 <p align="center">
   <br/>
   <br/>
-  <!-- Twitter -->
-  <a href="https://twitter.com/GiusNiyyel">
-    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/a4mj2Yd.png">
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Instagram -->
   <a href="https://www.instagram.com/giusniyyel" width="32px">
-    <img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/KFZnJE4.png">
+    <img width="32px" alt="Instagram" title="Instagram" src="https://i.imgur.com/EwZifAp.png">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Medium -->
   <a href="https://medium.com/@giusniyyel">
-    <img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/vC4Jiv9.png">
+    <img width="32px" alt="Medium" title="Medium" src="https://i.imgur.com/z1XEoZS.png">
+  </a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <!-- Twitter -->
+  <a href="https://twitter.com/GiusNiyyel">
+    <img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/Wo4QHQP.png">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Youtube -->
   <a href="https://www.youtube.com/channel/UCGhTPTIINw8yfz7k-x5nYjg">
-    <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/pXqueD3.png">
+    <img width="32px" alt="Youtube" title="Youtube" src="https://i.imgur.com/9AMYGRj.png">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <!-- Linkedin -->
   <a href="https://linkedin.com/in/giusniyyel/">
-    <img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/Lk2Afx8.png">
+    <img width="32px" alt="Linkedin" title="Linkedin" src="https://i.imgur.com/LFiaU0U.png">
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-
   <br/>
   <br/>
 </p>
